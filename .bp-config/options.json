@@ -1,0 +1,5 @@
+{
+	"PHP_VERSION": "{PHP_71_LATEST}",
+        "WEB_SERVER": "httpd",
+        "PHP_EXTENSIONS": ["mbstring", "mysqli", "mcrypt", "gd", "zip"]
+}
